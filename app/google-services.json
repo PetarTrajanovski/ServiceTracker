@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124910983527",
+    "project_id": "mpipapp-86173",
+    "storage_bucket": "mpipapp-86173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124910983527:android:2388326944ae383a64f7c2",
+        "android_client_info": {
+          "package_name": "com.example.mpipapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124910983527-6184412qbqgjui9jjil5tasgckhu71u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOhoMJvI0vkmXpI55cnEHZkB4bzX5yj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124910983527-6184412qbqgjui9jjil5tasgckhu71u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

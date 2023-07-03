@@ -87,6 +87,20 @@
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
+        <ImageButton
+            android:id="@+id/googleSignIn"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+
+            android:background="@drawable/googlesignin"
+            android:text="Google"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/cardView3"/>
+
     <TextView
         android:id="@+id/signupText"
         android:layout_width="wrap_content"
@@ -100,5 +114,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/cardView3" />
+        app:layout_constraintTop_toBottomOf="@+id/googleSignIn" />
 </androidx.constraintlayout.widget.ConstraintLayout>

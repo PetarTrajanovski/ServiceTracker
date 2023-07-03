@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "124910983527",
+    "firebase_url": "https://mpipapp-86173-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "mpipapp-86173",
     "storage_bucket": "mpipapp-86173.appspot.com"
   },
@@ -14,7 +15,15 @@
       },
       "oauth_client": [
         {
-          "client_id": "124910983527-6184412qbqgjui9jjil5tasgckhu71u2.apps.googleusercontent.com",
+          "client_id": "124910983527-5ajkcs3poduusk0eaar2uvgk2dfcbhfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mpipapp",
+            "certificate_hash": "8c19a9b8dfefccc5f155fa15fcc189adede2b6fd"
+          }
+        },
+        {
+          "client_id": "124910983527-ncl7savl8ous1ekdhk5c834qetb4m7l8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
